@@ -1,8 +1,8 @@
 # ai-devops-transformer
 
 
-Infrastructure as Code (IaC) Automation
+## Infrastructure as Code (IaC) Automation
 
-Incident Management
+## Incident Management
 
-Automated Test Case Generation
+## Automated Test Case Generation
